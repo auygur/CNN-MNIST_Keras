@@ -4,14 +4,6 @@ Problem: Using Keras and a dedicated GPU cluster, training a CNN with Multilayer
 
 Approach:  Vanilla model and a model with drop-outs are compared. Learning curves are visualized.
 
-
-## Data 
-- Data is imported from keras' built in package (keras.datasets import mnist)
-
-## Files
-- main.py includes all the codes for cleaning the data and models.
-
-
 ## Learning Curves (Visualization):
 - Without Drop-out:
 <p align="center">
@@ -22,3 +14,9 @@ Approach:  Vanilla model and a model with drop-outs are compared. Learning curve
 <p align="center">
   <img src="usingdropout.png"/>
 </p>
+
+## Data 
+- Data is imported from keras' built in package (keras.datasets import mnist)
+
+## Files
+- main.py includes all the codes for cleaning the data and models.
