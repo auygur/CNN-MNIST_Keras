@@ -10,3 +10,9 @@ Approach:  Vanilla model and a model with drop-outs are compared. Learning curve
 
 ## Files
 - main.py includes all the codes for cleaning the data and models.
+
+
+## Learning Curves (Visualization):
+
+- With Drop-out
+![alt text](https://raw.githubusercontent.com/auygur/Convolutional-Neural-Networks-MNIST-Dataset/master/usingdropout.png)
