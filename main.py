@@ -158,7 +158,6 @@ for i in range(16,288,16):
 modeldropout = Sequential()
 modeldropout.add(Dense(256, activation='relu', input_shape=(784,)))
 modeldropout.add(Dropout(0.1))
-
 modeldropout.add(Dense(10, activation='softmax'))
 
 modeldropout.summary()
