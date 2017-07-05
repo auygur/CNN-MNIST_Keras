@@ -13,6 +13,10 @@ Approach:  Vanilla model and a model with drop-outs are compared. Learning curve
 
 
 ## Learning Curves (Visualization):
+- Without Drop-out:
 
-- With Drop-out
+![alt text](https://raw.githubusercontent.com/auygur/Convolutional-Neural-Networks-MNIST-Dataset/master/withoutdropout.png)
+
+- With Drop-out:
+
 ![alt text](https://raw.githubusercontent.com/auygur/Convolutional-Neural-Networks-MNIST-Dataset/master/usingdropout.png)
