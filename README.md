@@ -1,6 +1,6 @@
 # Training a Multilayer Perceptron on the MNIST dataset
 
-Problem: Using Keras and a dedicated GPU cluster, training a CNN with Multilayer Perceptron on the MNIST dataset.
+Problem: Using Keras Sequential interface and a dedicated GPU cluster, training a CNN with Multilayer Perceptron on the MNIST dataset.
 
 Approach:  Vanilla model and a model with drop-outs are compared. Learning curves are visualized.
 
